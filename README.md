@@ -5,7 +5,7 @@
 
 <h1>Google</h1>
 <p>
-    <img src="Carta/Google.png" alt="Google" width="405" height="800"/> 
+    <img src="Carta/CDR.png" alt="Google" width="405" height="800"/> 
 </p>
 
 <div align="center">
